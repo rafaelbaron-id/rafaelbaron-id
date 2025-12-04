@@ -1,4 +1,5 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/d3b50e57-2be6-4491-9db3-7b1505ac2b27" />
+![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/87fcc2ee-f54d-4173-b335-85b443a5d25c" />
+)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaelbaronn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-b-3b07aa382/) 
 
